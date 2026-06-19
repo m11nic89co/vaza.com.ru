@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /admin/
 Disallow: /private/
 Allow: /
-Sitemap: https://vazon.com.ru/sitemap.xml
+Sitemap: https://vaza.com.ru/sitemap.xml
